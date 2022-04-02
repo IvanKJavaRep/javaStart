@@ -4,6 +4,7 @@ public class HelloWorld {
     public static void main(String[] args) {
 //        System.out.println("ggggg");
 //        System.out.println("fff");
+        System.out.println("hhhhhhhhh");
         String s ="d";
         if(s.length()>=1)
             s="g";
