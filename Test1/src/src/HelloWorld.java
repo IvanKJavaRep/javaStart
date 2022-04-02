@@ -16,6 +16,23 @@ public class HelloWorld {
             default:
                 System.out.println("default option");
         }
+        String[] arr = new String[5];
+        System.out.printf("%s%s%n",s,s);
+        int x =10;
+        do
+        {
+            System.out.println(x);
+            x--;
+        } while(x>=0);
+        int[] lst = new int[] {1,2,3,4};
+
+        for (int i:lst)
+        {
+            System.out.println("x");
+        }
+        Dog.Status();
+
+
 
     }
 }
