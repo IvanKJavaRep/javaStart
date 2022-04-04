@@ -1,5 +1,7 @@
 package src;
 
+
+
 public class HelloWorld {
     public static void main(String[] args) {
 //        System.out.println("ggggg");
@@ -31,10 +33,39 @@ public class HelloWorld {
             System.out.println("x");
         }
         Dog.Status();
+        S(sdd);
+    }
+    public static void Method()
+    {
+        double s =3;
+    }
 
+    public static class Test {
+        public static void HMeth()
+        {
 
+        }
+    }
+    static String sdd = "ffff gggg hhhh";
+    public static String[] S(String s)
+    {
+        for (String a:s.split(" ")
+             ) {
+            System.out.println(a);
+        }
+        System.out.println("gggggggggg");
+        return s.split(" ");
+    }
+
+}
+class G
+{
+    HelloWorld.Test d = new HelloWorld.Test();
+    public static void Getf()
+    {
 
     }
 }
+
 
 
