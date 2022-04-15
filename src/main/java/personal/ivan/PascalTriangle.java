@@ -10,9 +10,12 @@ public class PascalTriangle {
                  ) {
               System.out.print(t);
             }
+            System.out.println("llll");
             System.out.println("");
+            System.out.println("kkk");
         }
     }
+
     public static List<List<Integer>> generate(int numRows) {
         List<List<Integer>> finallst = new ArrayList<>();
         List<Integer> lst = new ArrayList<>();
