@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="personal.ivan.PascalTriangleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-15T14:37:46" hostname="OMSKNTB0608" time="0.017">
+  <properties/>
+  <testcase name="test()" classname="personal.ivan.PascalTriangleTest" time="0.017"/>
+  <system-out><![CDATA[1
+11
+121
+1331
+14641
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
