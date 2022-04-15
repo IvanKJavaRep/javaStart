@@ -1,3 +1,5 @@
+package personal.ivan;
+
 public class Closest3 {
     public static void main(String[] args) {
         int[] arr = {1,1,1,0,1,3,3,3,3,11,3,4,5,6,6,6,6,6,6,6,6,65,7,8,5,6,5,23,45};

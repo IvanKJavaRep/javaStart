@@ -1,3 +1,5 @@
+package personal.ivan;
+
 public class PolindromeNumber {
     public static void main(String[] args) {
         System.out.println(IsPolindrome(-121));

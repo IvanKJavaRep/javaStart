@@ -1,3 +1,5 @@
+package personal.ivan;
+
 public class TwoSummClass {
     public static void main(String[] args) {
         int[] d = {3,2,4};

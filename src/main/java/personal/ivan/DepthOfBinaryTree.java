@@ -1,3 +1,7 @@
+package personal.ivan;
+
+import personal.ivan.TreeNode;
+
 public class DepthOfBinaryTree {
     public static void main(String[] args) {
         //isBalanced();
@@ -21,13 +25,13 @@ public class DepthOfBinaryTree {
     }
 }
 /*
-class TreeNode {
+class personal.ivan.TreeNode {
       int val;
-      TreeNode left;
-      TreeNode right;
-      TreeNode() {}
-      TreeNode(int val) { this.val = val; }
-      TreeNode(int val, TreeNode left, TreeNode right) {
+      personal.ivan.TreeNode left;
+      personal.ivan.TreeNode right;
+      personal.ivan.TreeNode() {}
+      personal.ivan.TreeNode(int val) { this.val = val; }
+      personal.ivan.TreeNode(int val, personal.ivan.TreeNode left, personal.ivan.TreeNode right) {
           this.val = val;
           this.left = left;
           this.right = right;

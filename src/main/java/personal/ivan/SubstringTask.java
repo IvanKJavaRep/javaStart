@@ -1,3 +1,5 @@
+package personal.ivan;
+
 import java.util.*;
 
 import static java.lang.System.*;

@@ -1,3 +1,5 @@
+package personal.ivan;
+
 public class BinaryStringSum {
     public static void main(String[] args) {
         System.out.println(addBinary("10", "1"));
