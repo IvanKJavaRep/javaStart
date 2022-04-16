@@ -7,6 +7,7 @@ public class PlusOne {
 
 
     public static int[] plusOne(int[] digits) {
+        System.out.println("h");
         List<Integer> lst;
         if (digits[digits.length - 1] != 9) {
             digits[digits.length - 1] += 1;
