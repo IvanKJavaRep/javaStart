@@ -1,9 +1,6 @@
-package personal.ivan;
+package personal.ivan.leetcode;
 
 public class PolindromeNumber {
-    public static void main(String[] args) {
-        System.out.println(IsPolindrome(-121));
-    }
 
     static boolean IsPolindrome(int number) {
         char[] arr = String.valueOf(number).toCharArray();
@@ -21,7 +18,6 @@ public class PolindromeNumber {
                 }
             }
         }
-        System.out.println("lll");
         return true;
 
     }

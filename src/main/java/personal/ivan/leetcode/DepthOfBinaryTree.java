@@ -1,6 +1,4 @@
-package personal.ivan;
-
-import personal.ivan.TreeNode;
+package personal.ivan.leetcode;
 
 public class DepthOfBinaryTree {
     public static void main(String[] args) {

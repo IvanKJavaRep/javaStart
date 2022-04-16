@@ -1,17 +1,10 @@
-package personal.ivan;
+package personal.ivan.leetcode;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class PlusOne {
-    public static void main(String[] args) {
-        int[] arr = {9, 9, 9, 9};
-        for (var g : plusOne(arr)
-        ) {
-            System.out.println(g);
-        }
-        ;
-    }
+
 
     public static int[] plusOne(int[] digits) {
         List<Integer> lst;

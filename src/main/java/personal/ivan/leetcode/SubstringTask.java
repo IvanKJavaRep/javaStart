@@ -1,14 +1,11 @@
-package personal.ivan;
+package personal.ivan.leetcode;
 
 import java.util.*;
 
 import static java.lang.System.*;
 
 public class SubstringTask {
-    public static void main(String[] args) {
-        //out.println(FindSubstring("dvdf"));
-        out.println(longestUniqueSubsttr("abcdaaefghij"));
-    }
+
     public static int longestUniqueSubsttr(String str)
     {
         String test = "";

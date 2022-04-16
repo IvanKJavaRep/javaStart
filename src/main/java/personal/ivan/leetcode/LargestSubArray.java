@@ -1,10 +1,7 @@
-package personal.ivan;
+package personal.ivan.leetcode;
 
 public class LargestSubArray {
-    public static void main(String[] args) {
-        int[] nums = {-2,1,-3,4,-1,2,1,-5,4};
-        System.out.println(MaxSum(nums));
-    }
+
     public static int MaxSum(int[] nums)
     {
         int result = nums[0];

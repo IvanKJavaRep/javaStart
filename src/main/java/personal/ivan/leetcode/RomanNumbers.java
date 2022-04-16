@@ -1,9 +1,6 @@
-package personal.ivan;
+package personal.ivan.leetcode;
 
 public class RomanNumbers {
-    public static void main(String[] args) {
-        System.out.println(FromRomanToInt("MCMXCIV"));
-    }
 
     public static int FromRomanToInt(String s) {
         char[] arr = s.toCharArray();

@@ -1,9 +1,7 @@
-package personal.ivan;
+package personal.ivan.leetcode;
 
 public class BinaryStringSum {
-    public static void main(String[] args) {
-        System.out.println(addBinary("10", "1"));
-    }
+
 
     public static String addBinary(String a, String b) {
         StringBuilder result = new StringBuilder();

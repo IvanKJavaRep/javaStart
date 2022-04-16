@@ -1,4 +1,4 @@
-package personal.ivan;
+package personal.ivan.leetcode;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -6,10 +6,6 @@ import java.util.List;
 import java.util.stream.IntStream;
 
 public class InsertPosition {
-    public static void main(String[] args) {
-        int[] nums = {1, 3, 5, 6};
-        System.out.println(Search(nums, 7));
-    }
 
     public static int Search(int[] nums, int target) {
         int i=0;

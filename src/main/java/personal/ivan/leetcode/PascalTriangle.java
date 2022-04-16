@@ -1,4 +1,4 @@
-package personal.ivan;
+package personal.ivan.leetcode;
 
 import java.util.ArrayList;
 import java.util.List;

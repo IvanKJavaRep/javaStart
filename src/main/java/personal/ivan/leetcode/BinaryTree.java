@@ -1,4 +1,4 @@
-package personal.ivan;
+package personal.ivan.leetcode;
 
 class TreeNode {
       int val;

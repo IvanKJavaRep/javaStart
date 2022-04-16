@@ -1,12 +1,6 @@
-package personal.ivan;
+package personal.ivan.leetcode;
 
 public class Closest3 {
-    public static void main(String[] args) {
-        int[] arr = {1,1,1,0,1,3,3,3,3,11,3,4,5,6,6,6,6,6,6,6,6,65,7,8,5,6,5,23,45};
-        //int[] arr={0,0,0};
-        System.out.println("hh");
-        System.out.println(Summ(arr, 1000));
-    }
 
     public static int Summ(int[] nums, int target)
     {

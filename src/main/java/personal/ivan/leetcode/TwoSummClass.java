@@ -1,11 +1,6 @@
-package personal.ivan;
+package personal.ivan.leetcode;
 
 public class TwoSummClass {
-    public static void main(String[] args) {
-        int[] d = {3,2,4};
-        int t =6;
-        GetArray(d,t);
-    }
     static int[] GetArray(int[] nums, int target)
     {
         int[] arr = new int[2];
