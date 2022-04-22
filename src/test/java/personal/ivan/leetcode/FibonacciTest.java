@@ -5,6 +5,6 @@ import org.junit.jupiter.api.Test;
 public class FibonacciTest {
     @Test void test()
     {
-        System.out.println(Fibonacci.fib(45));
+        System.out.println(Fibonacci.fib(56));
     }
 }

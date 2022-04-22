@@ -13,7 +13,18 @@ public class Fibonacci {
             return 1;
         else
         {
-            return fib(n-1)+fib(n-2);
+            if(lst.size()==n) {
+                lst.add(lst.get(n - 1) + lst.get(n - 2));
+                return lst.get(n);
+            }
+            else if(lst.size()>n)
+            {
+                return lst.get(n);
+            }
+            else
+            {
+                return fib(n-1)+fib(n-2);
+            }
         }
 
     }
